@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Eu sou o Kauã Carlos Costa</h1>
-<h3 align="center">Tenho 20 anos e sou natural do Piauí. Concluí o Ensino Médio em João Pessoa,no Colégio Meta. No início, fiz 5 períodos de Ciências Contábeis na UFPB. No entanto,atualmente estou cursando Sistemas para Internet na UNIESP. Gosto muito da área de tecnologia. Meu Instagram está com o perfil chamado @kauac.costa_</h3>
+<h3 align="center">Tenho 21 anos e sou natural do Piauí. Concluí o Ensino Médio em João Pessoa,no Colégio Meta. No início, fiz 5 períodos de Ciências Contábeis na UFPB. No entanto,atualmente estou cursando Sistemas para Internet na UNIESP. Gosto muito da área de tecnologia. Meu Instagram está com o perfil chamado @kauac.costa_</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauaccosta&label=Profile%20views&color=0e75b6&style=flat" alt="kauaccosta" /> </p>
 
